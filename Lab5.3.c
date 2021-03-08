@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
-    int n,count=0,fac[3]={2,3,5},ck=0;
+    int n,count=1,fac[3]={2,3,5},ck=0;
     scanf("%d",&n);
     if(n==1)
         printf("1");
